@@ -1,0 +1,32 @@
+
+*{
+    font-family: Roboto;
+    
+}
+
+.header-container{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 40px; 
+}
+
+.header-container .logo{
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 18px;
+    padding-left: 100px;
+}
+
+.header-container .nav-links{
+    display: flex;
+    gap: 8px;
+    list-style: none;
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+
+
